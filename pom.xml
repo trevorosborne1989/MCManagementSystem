@@ -11,7 +11,7 @@
 	<groupId>com.lightfeather</groupId>
 	<artifactId>LFManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>LFManagementSystem</name>
 	<description>Internal Management System for Light Feather</description>
     <properties>
