@@ -1,8 +1,8 @@
-# Light Feather Management System
+# MyCompany Management System
 
 ## `About this Application:`
 * This application runs spring boot on the back end and react JS on the front end.
-* This module will coordinate the supervisors currently working at LightFeather and the jurisdiction they cover.
+* This module will coordinate the supervisors currently working at MyCompany and the jurisdiction they cover.
   Any employee in the company can submit their contact information for a specific supervisor to be notified of
   any announcements the supervisor has made.
 * This microservice has two endpoints: \
